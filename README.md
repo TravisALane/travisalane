@@ -64,7 +64,7 @@ Tools matter, but outcomes matter more. These are technologies I use across soft
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash,powershell&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, Bash, and PowerShell" />
 </p>
 
-<sub>Python · Java · JavaScript · HTML · CSS · Bash · PowerShell (M)</sub>
+<sub>Python · Java · JavaScript · HTML · CSS · Bash · PowerShell · SQL</sub>
 
 ### Data platforms & orchestration
 
@@ -73,7 +73,7 @@ Tools matter, but outcomes matter more. These are technologies I use across soft
   &nbsp;
   <img height="40" src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" title="Snowflake" />
   &nbsp;
-  <img height="40" src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" title="dbt" />
+  <img height="40" src="./assets/dbt.png" alt="dbt" title="dbt" />
   &nbsp;
   <img height="40" src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" title="Apache Spark / PySpark" />
   &nbsp;
@@ -125,5 +125,6 @@ Tools matter, but outcomes matter more. These are technologies I use across soft
   <em>Build systems people can trust. Keep them simple enough to change.</em>
 </p>
 
-
-
+<p align="center">
+  <sub>Unaffiliated with dbt Labs. dbt and the dbt logo are trademarks of dbt Labs, LLC. Other product names, logos, and brands are property of their respective owners.</sub>
+</p>
