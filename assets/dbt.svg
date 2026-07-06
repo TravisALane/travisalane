@@ -1,0 +1,21 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">dbt</title>
+  <desc id="desc">A dark rounded square with dbt lettering and a small connected-node mark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#242938"/>
+      <stop offset="1" stop-color="#1E2230"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="8" y1="8" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB199"/>
+      <stop offset="0.45" stop-color="#FF694B"/>
+      <stop offset="1" stop-color="#D94B35"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="url(#bg)"/>
+  <path d="M13.5 16.5h7.2l5.6 6.2 4.4-4.8h4.5" stroke="url(#orange)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="13.5" cy="16.5" r="3.2" fill="#FF694B"/>
+  <circle cx="26.3" cy="22.7" r="3.2" fill="#FF8A70"/>
+  <circle cx="35.2" cy="17.9" r="3.2" fill="#FF694B"/>
+  <text x="24" y="38" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF">dbt</text>
+</svg>
