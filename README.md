@@ -64,7 +64,7 @@ Tools matter, but outcomes matter more. These are technologies I use across soft
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash,powershell&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, Bash, and PowerShell" />
 </p>
 
-<sub>Python · Java · JavaScript · HTML · CSS · Bash · PowerShell · SQL</sub>
+<sub>Python · Java · JavaScript · HTML · CSS · Bash · PowerShell (M)</sub>
 
 ### Data platforms & orchestration
 
@@ -73,12 +73,14 @@ Tools matter, but outcomes matter more. These are technologies I use across soft
   &nbsp;
   <img height="40" src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" title="Snowflake" />
   &nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" title="dbt" />
+  &nbsp;
   <img height="40" src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" title="Apache Spark / PySpark" />
   &nbsp;
   <img height="40" src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow" title="Apache Airflow" />
 </p>
 
-<sub>Databricks · Snowflake · Apache Spark / PySpark · Apache Airflow</sub>
+<sub>Databricks · Snowflake · dbt · Apache Spark / PySpark · Apache Airflow</sub>
 
 ### Cloud, analytics & BI
 
@@ -89,7 +91,7 @@ Tools matter, but outcomes matter more. These are technologies I use across soft
   &nbsp;
   <img height="40" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" alt="Power BI" title="Power BI" />
   &nbsp;
-  <img height="40" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Excel-Workbook.png" alt="Excel" title="Excel" />
+  <img height="40" src="./assets/excel.svg" alt="Excel" title="Excel" />
 </p>
 
 <sub>Azure · Microsoft Fabric · Power BI · Excel</sub>
@@ -122,5 +124,6 @@ Tools matter, but outcomes matter more. These are technologies I use across soft
 <p align="center">
   <em>Build systems people can trust. Keep them simple enough to change.</em>
 </p>
+
 
 
