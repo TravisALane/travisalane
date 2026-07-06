@@ -13,15 +13,11 @@
 
 ---
 
+## What I build
+
 I work at the intersection of **software engineering**, **data engineering**, and **analytics**.
 
-I use modern data tools every day, but I try not to make the toolchain the point. The goal is to build systems that are reliable, observable, maintainable, and useful to the people who depend on them.
-
 I care about simple interfaces, clear ownership, trustworthy data, and code that can survive past the first version.
-
----
-
-## Current focus
 
 <table>
   <tr>
@@ -42,31 +38,23 @@ I care about simple interfaces, clear ownership, trustworthy data, and code that
 
 ---
 
-## Engineering priorities
+## Core stack
 
-| Priority | What I optimize for |
-| --- | --- |
-| **Reliability** | Boring, repeatable systems with clear failure modes. |
-| **Maintainability** | Code that is easy to read, test, change, and hand off. |
-| **Trustworthy data** | Clear contracts, validation, lineage, and predictable behavior. |
-| **Developer experience** | Interfaces that make the right path obvious. |
-| **Business value** | Software that makes real work easier, faster, or safer. |
+Tools are part of the work, not the point of the work. This is the environment I use to build software, data systems, and analytics workflows.
 
----
-
-## Working environment
-
-Tools matter, but outcomes matter more. These are technologies I use across software, data, and analytics work.
-
-### Languages & interfaces
+### Software & development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash,powershell&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, Bash, and PowerShell" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash,powershell,git,github,githubactions,vscode,docker&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, Bash, PowerShell, Git, GitHub, GitHub Actions, VS Code, and Docker" />
+  &nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="pytest" title="pytest" />
+  &nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/pypi/3775A9" alt="PyPI" title="PyPI" />
 </p>
 
-<sub>Python · Java · JavaScript · HTML · CSS · Bash · PowerShell · SQL</sub>
+<sub>Python · Java · JavaScript · HTML · CSS · Bash · PowerShell · SQL · Git · GitHub Actions · VS Code · Docker · pytest · PyPI · REST APIs · CI/CD</sub>
 
-### Data platforms & orchestration
+### Data, cloud & analytics
 
 <p>
   <img height="40" src="https://cdn.simpleicons.org/databricks/E36209" alt="Databricks" title="Databricks" />
@@ -78,14 +66,8 @@ Tools matter, but outcomes matter more. These are technologies I use across soft
   <img height="40" src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark" title="Apache Spark / PySpark" />
   &nbsp;
   <img height="40" src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow" title="Apache Airflow" />
-</p>
-
-<sub>Databricks · Snowflake · dbt · Apache Spark / PySpark · Apache Airflow</sub>
-
-### Cloud, analytics & BI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" title="Azure" />
+  &nbsp;
+  <img height="40" src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" title="Azure" />
   &nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/npm/@fabric-msft/svg-icons@8.2.0/svg/fabric_48_color.svg" alt="Microsoft Fabric" title="Microsoft Fabric" />
   &nbsp;
@@ -94,19 +76,7 @@ Tools matter, but outcomes matter more. These are technologies I use across soft
   <img height="40" src="./assets/excel.svg" alt="Excel" title="Excel" />
 </p>
 
-<sub>Azure · Microsoft Fabric · Power BI · Excel</sub>
-
-### Development workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,docker&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code, and Docker" />
-  &nbsp;
-  <img height="40" src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="pytest" title="pytest" />
-  &nbsp;
-  <img height="40" src="https://cdn.simpleicons.org/pypi/3775A9" alt="PyPI" title="PyPI" />
-</p>
-
-<sub>Git · GitHub · GitHub Actions · VS Code · Docker · pytest · PyPI</sub>
+<sub>Databricks · Snowflake · dbt · Apache Spark / PySpark · Apache Airflow · Astronomer · Delta Lake · Azure · Microsoft Fabric · Power BI · Excel · Power Query (M)</sub>
 
 ---
 
@@ -114,17 +84,14 @@ Tools matter, but outcomes matter more. These are technologies I use across soft
 
 | Principle | Practice |
 | --- | --- |
-| **Keep systems understandable** | Prefer clear naming, explicit contracts, and small pieces that compose well. |
+| **Build for reliability** | Prefer boring, repeatable systems with clear failure modes. |
+| **Keep systems understandable** | Use clear naming, explicit contracts, and small pieces that compose well. |
 | **Make failure visible** | Design for logging, observability, validation, and recoverability. |
-| **Automate the repetitive parts** | Use code to remove manual steps without adding unnecessary complexity. |
+| **Automate carefully** | Remove manual steps without adding unnecessary complexity. |
 | **Document decisions** | Capture why something exists, not just how to run it. |
 
 ---
 
 <p align="center">
-  <em>Build systems people can trust. Keep them simple enough to change.</em>
-</p>
-
-<p align="center">
-  <sub>Unaffiliated with dbt Labs. dbt and the dbt logo are trademarks of dbt Labs, LLC. Other product names, logos, and brands are property of their respective owners.</sub>
+  <sub>Technology names and logos are used only to identify tools I work with. No affiliation or endorsement is implied.</sub>
 </p>
