@@ -52,7 +52,7 @@ Tools are part of the work, not the point of the work. This is the environment I
   <img height="40" src="https://cdn.simpleicons.org/pypi/3775A9" alt="PyPI" title="PyPI" />
 </p>
 
-<sub>Python · Java · JavaScript · HTML · CSS · Bash · PowerShell · SQL · Git · GitHub Actions · VS Code · Docker · pytest · PyPI · REST APIs · CI/CD</sub>
+<sub>Python · Java · JavaScript · HTML · CSS · Bash · PowerShell · SQL · Git · GitHub · GitHub Actions · VS Code · Docker · pytest · PyPI · REST APIs · CI/CD</sub>
 
 ### Data, cloud & analytics
 
