@@ -1,4 +1,4 @@
-<h1 align="center">Travis Lane</h1>
+<h1 align="center">Travis A. Lane</h1>
 
 <p align="center">
   <strong>Software Engineer • Data & Analytics Engineer</strong><br />
